@@ -89,5 +89,9 @@ p {
 body {
 	background-image: url("Background-gradient.png");
 }
+
+.abc {
+	width: 10%;
+}
 	
 
