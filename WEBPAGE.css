@@ -73,4 +73,6 @@ p {
 	margin-left: 35%;
 }
 
-
+body {
+	background-image: url("Background-gradient.png");
+}
