@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>     </title>
+		<link rel = "stylesheet" type="text/css" href= "WEBPAGE.css" />
+		<style> 
+		#grad1{
+			height: 1000px;
+			background-color: #cccccc;
+			background-image: linear-gradient(rgb(255, 255, 255), rgb(255, 0, 0));
+		}
+		</style>
+	</head>
+	
+</html>

@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+	<head>
+		
+		<meta charset="UTF-8">
+		
+		<title> The Tokyo Olympics </title>
+		
+		<link rel = "stylesheet" type="text/css" href= "WEBPAGE.css" />
+		
+	</head>
+	
+	
+	<body>
+		<!-- This my navigation bar -->
+		<div class="topnav">
+			<a class="active" href="#homepage">Home</a>
+			<a href="secondary.html">Bibliography</a>
+		</div>
+		
+		<!--I had to take a screenshot of the gradient then set the background with it as an image-->
+		<style>
+		body {
+			background-image: url("Background-gradient.png");
+		}
+		</style>
+		
+		<!-- My content section/column -->
+		<div class="contentcolumn">
+		<h1 id="contentheader">Contents</h1>
+			<ol>
+				<li><a href="#intro">Introduction</a></li>
+				<li><a href="#covid">Impact of the Covid-19 Pandemic</a>
+					<ul>
+						<li><a href="#postponment">Postponment to 2021</a></li>
+					</ul>
+				</li>
+				<li><a href="opening">Opening Ceremony</a></li>
+				<li><a href="mtable"> Medal Table </a></li>
+				<li><a href="closing">Closing Ceremony</a></li>
+			</ol>
+		</div>
+		
+		<div class="speechcolumn">
+		
+		<h1 id = "Title"> The Tokyo Olympics </h1>
+		
+		<h2 id="intro"> Introduction </h2>
+	
+		<p> The 2020 Summer Olympics officially the Games of the XXXII Olympiad and also known as Tokyo 2020, was an international multi-sport event held from 23 July to 8 August 2021 in Tokyo, Japan with some preliminary events that began on 21 July. The 2020 Games were the fourth Olympic Games to be held in Japan, following the 1964 Summer Olympics (Tokyo), 1972 Winter Olympics (Sapporo), and 1998 Winter Olympics (Nagano). The 2020 Games were the second of three consecutive Olympics to be held in East Asia, following the 2018 Winter Olympics in Pyeongchang, South Korea and preceding the 2022 Winter Olympics in Beijing, China.  </p>
+		
+		<h2 id="covid"> Impact of the Covid-19 Pandemic </h2>
+		
+		<p>The Games were originally scheduled to take place from 24 July to 9 August 2020, but due to the COVID-19 pandemic affecting across the globe in March 2020, the event was postponed to 2021, the first such instance in the history of the Olympic Games (previous games had been canceled but not rescheduled). However, the games kept the Tokyo 2020 name for marketing and branding purposes.</p>
+		
+		<h3 id="postponment"> Postponment to 2021 </h3>
+		
+		<p> The Tokyo Organizing Committee of the Olympic and Paralympic Games (TOCOG) released a statement on 2 March 2020, confirming that preparations for the upcoming Tokyo Olympics were&ldquo;continuing as planned&rdquo;. On 23 March, both Canada and Australia indicated that they would withdraw from the Games if they were not postponed by a year. On the same day, Japanese prime minister Shinzo Abe stated he would support a proposed postponement, citing that ensuring athlete safety was&ldquo;paramount&rdquo;. On 30 March 2020, the IOC and TOCOG announced that they had reached an agreement on the new dates for the 2020 Summer Olympics, which would begin with the opening ceremony on 23 July 2021 and end with the closing ceremony on 8 August 2021. </p>
+		
+		<h2 id="opening"> Opening Ceremony </h2>
+		
+		<p> The opening ceremony was held on 23 July 2021 in the Olympic Stadium in Tokyo. It included the traditional Parade of Nations. Emperor Naruhito formally opened the Games, and at the end of the torch relay the Olympic cauldron was lit by Japanese tennis player Naomi Osaka. For the first time in the 2020 Olympic Games, it was decided that one male and one female in each country would take turns holding flags and both serve as flag-bearers.
+
+		<h2 id="mtable"> Medal Table </h2>
+		
+		<!-- Screenshot taken from wikipedia-->
+		<img src="medal table.png" alt="Image of medal table for the 2020 Olympics" height="300" class="mtable2"
+		</div>
+		
+		<p class = "White-Text">My <a href = "secondary1.html">Sources</a> for this webpage.</p>
+		<p> Go back to the <a href="#Title">top.</a></p>
+		
+		<a href="http://validator.w3.org/check?uri=https://WangLaw.github.io/home/"><img src="w3c.png" width="65" alt="HTML5 Validator"></a>
+		
+		<a href = "http://jigsaw.w3.org/css-validator/validator?uri=https://WangLaw.github.io/home/"><img src= "css.png" width="65" alt="CSS Validator"></a>
+	</body>
+		
+		
+	</body>
+	
+<html> 
+
+
