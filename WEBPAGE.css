@@ -1,0 +1,76 @@
+/* Add a greyish background color to the top navigation so it doesn't contrast with white */
+.topnav {
+  background-color: rgb(242, 242, 242);
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: rgb(255, 77, 77);
+  color: white;
+}
+
+.topnav a.active {
+  border-bottom: 4px solid rgb(255, 255, 26);
+}
+
+/*This is the formatting for my content column */
+.contentcolumn {
+  background-color: rgb(255, 230, 230);
+  padding: 35px;
+  position:fixed;
+  width: 14%;
+  left: 4.5%;
+  top: 38%;
+	
+}
+
+/* Format for the "title", especially so the background color doesn't overlap with the content column */
+#Title  {
+	text-align: center;
+	font-size: 80px;
+	margin-top: 5%;
+	color: rgb(255, 26, 26);
+	background-color: rgb(255, 230, 230); 
+}
+
+h2{
+	margin-left: 25%;
+	background-color: rgb(255, 179, 179);
+	padding: 5px;
+}
+
+h3 {
+	margin-left: 25%;
+	background-color: rgb(255, 153, 153);
+	padding: 5px;
+}
+
+p {
+	font-size: 15px;
+	margin-left: 25% ;
+	background-color: rgb(255, 230, 230);
+	padding: 5px;
+}
+
+.mtable2 {
+	margin-left: 35%;
+}
+
+
